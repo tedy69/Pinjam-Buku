@@ -1,0 +1,21 @@
+<!--
+  ~ Created by Mochammad Tedy Fazrin on 4/12/20 7:36 PM
+  ~ Copyright (c) 2020 . All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="55dp"
+    android:viewportWidth="60"
+    android:viewportHeight="55">
+    <group
+        android:translateX="25400"
+        android:translateY="237.384">
+        <group android:translateX="-0.002">
+            <path
+                android:fillColor="#A6A6A6"
+                android:fillType="evenOdd"
+                android:pathData="M-25353.617 -209.711v21.856h-8.191v-14.32c0 -1.786 0.029 -2.066 -1.67 -2.066h-12.676c-2.088 0 -2 0.028 -2 1.954v14.431h-8.191v-21.856h-8.187c5.764 -4.829 14.373 -12.226 20.164 -17.195 4.4 -3.824 4.262 -3.88 8.635 -0.112 5.8 4.969 14.488 12.449 20.309 17.306ZM-25342 -213.9c-9.246 -7.788 -26.045 -22.331 -26.215 -22.47 -1.527 -1.312 -1.947 -1.4 -3.562 0 -0.166 0.14 -16.965 14.655 -26.324 22.554a5.526 5.526 0 0 0 -1.893 4.1 5.473 5.473 0 0 0 5.461 5.471h2.729v16.385a5.456 5.456 0 0 0 5.459 5.471h32.732a5.456 5.456 0 0 0 5.457 -5.471V-204.24h2.73a5.451 5.451 0 0 0 5.432 -5.471A5.4 5.4 0 0 0 -25342 -213.9Z" />
+        </group>
+    </group>
+</vector>

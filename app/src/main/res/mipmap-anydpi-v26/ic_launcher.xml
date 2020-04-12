@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Mochammad Tedy Fazrin on 4/12/20 7:36 PM
+  ~ Copyright (c) 2020 . All rights reserved.
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <foreground android:drawable="@drawable/icon" />
+</adaptive-icon>

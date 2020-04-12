@@ -1,0 +1,32 @@
+<!--
+  ~ Created by Mochammad Tedy Fazrin on 4/12/20 7:36 PM
+  ~ Copyright (c) 2020 . All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="54.497dp"
+    android:viewportWidth="50"
+    android:viewportHeight="54.497">
+    <group
+        android:translateX="-575"
+        android:translateY="-1150.751">
+        <group
+            android:translateX="575"
+            android:translateY="1150.751">
+            <group android:translateX="11.508">
+                <path
+                    android:fillColor="#A6A6A6"
+                    android:pathData="M26.962 13.596A13.481 13.596 0 0 1 0 13.596A13.481 13.596 0 0 1 26.962 13.596Z" />
+            </group>
+            <group
+                android:translateX="-1.866"
+                android:translateY="-806.398">
+                <path
+                    android:fillColor="#A6A6A6"
+                    android:fillType="evenOdd"
+                    android:pathData="M13.622 829.458c-2.438 -4.128 -21.2 18.55 -5.644 28.816 4.876 3.5 32.875 3.5 37.724 0C61.62 847.788 41.977 825.3 39.429 829.6 33.868 839.2 20.663 839.366 13.622 829.458Z" />
+            </group>
+        </group>
+    </group>
+</vector>

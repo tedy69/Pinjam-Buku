@@ -1,0 +1,7 @@
+/*
+ * Created by Mochammad Tedy Fazrin on 4/12/20 7:36 PM
+ * Copyright (c) 2020 . All rights reserved.
+ */
+
+rootProject.name='Pinjam Buku'
+include ':app'

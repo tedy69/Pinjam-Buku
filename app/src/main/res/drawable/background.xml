@@ -1,0 +1,31 @@
+<!--
+  ~ Created by Mochammad Tedy Fazrin on 4/12/20 7:36 PM
+  ~ Copyright (c) 2020 . All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="528.6012dp"
+    android:height="939.9012dp"
+    android:viewportWidth="14918"
+    android:viewportHeight="26526">
+    <path
+        android:fillType="evenOdd"
+        android:pathData="M-2 -1H14920V26528H-2V-1Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="7459.13"
+                android:endY="26527.4"
+                android:startX="7459.13"
+                android:startY="-1.38"
+                android:tileMode="clamp">
+                <item
+                    android:color="#FF0000"
+                    android:offset="0" />
+                <item
+                    android:color="#990808"
+                    android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

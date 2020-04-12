@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761213532345",
+    "firebase_url": "https://pinjam-buku-2f88f.firebaseio.com",
+    "project_id": "pinjam-buku-2f88f",
+    "storage_bucket": "pinjam-buku-2f88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761213532345:android:b77d0fd50996b8c8678368",
+        "android_client_info": {
+          "package_name": "tech.tedybear.pinjambuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761213532345-1oecuefvv15ghhtkr3cr56h9gm6mhu48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODzuGC0qKvc3uHXvnD9qqNMDgNkd4GQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761213532345-1oecuefvv15ghhtkr3cr56h9gm6mhu48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
